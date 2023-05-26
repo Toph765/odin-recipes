@@ -4,3 +4,4 @@ This is a sample project to showcase my foundational knowledge on writing html:
 * Paragraphs
 * anchors
 * lists
+* images
